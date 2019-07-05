@@ -1,0 +1,127 @@
+Return-path: <clidyn@cola.iges.org>
+Envelope-to: tolwinski@mail-gs.math.arizona.edu
+Delivery-date: Sat, 16 Jul 2011 01:23:47 -0700
+Received: from mx224.math.arizona.edu ([128.196.224.204])
+	by mail-gs.math.arizona.edu with esmtp (Exim 4.63)
+	(envelope-from <clidyn@cola.iges.org>)
+	id 1Qi0A7-00014J-4J
+	for tolwinski@mail-gs.math.arizona.edu; Sat, 16 Jul 2011 01:23:47 -0700
+Received: from spam.iges.org ([192.239.84.156])
+	by mx224.math.arizona.edu with esmtp (Exim 4.72)
+	(envelope-from <clidyn@cola.iges.org>)
+	id 1Qi0A5-0003wb-Hp
+	for tolwinski@math.arizona.edu; Sat, 16 Jul 2011 01:23:46 -0700
+Received: from spam.iges.org (127.0.0.1) by spam.iges.org (MlfMTA v3.2r9) 
+id h43pa20171ss for <tolwinski@math.arizona.edu>; Fri, 15 Jul 2011 22:08:13 -0400 
+(envelope-from <clidyn@cola.iges.org>)
+Received: from mail.iges.org ([192.239.84.41])
+	by spam.iges.org (SonicWALL 7.2.1.2841)
+	with ESMTP; Fri, 15 Jul 2011 22:08:13 -0400
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.iges.org (Postfix) with ESMTP id E5B7C8B1C029
+	for <tolwinski@math.arizona.edu>; Sat, 16 Jul 2011 04:23:24 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at mail.iges.org
+Received: from mail.iges.org ([127.0.0.1])
+	by localhost (mail.iges.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SKfdQ+soPHOs for <tolwinski@math.arizona.edu>;
+	Sat, 16 Jul 2011 04:23:24 -0400 (EDT)
+Received: from [192.168.182.172] (unknown [78.6.58.38])
+	by mail.iges.org (Postfix) with ESMTPSA id 196508B1C027
+	for <tolwinski@math.arizona.edu>; Sat, 16 Jul 2011 04:23:23 -0400 (EDT)
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0 (Apple Message framework v1084)
+Subject: Re: Possible erratum for paper in Climate Dynamics
+From: Edwin Schneider <clidyn@cola.iges.org>
+In-Reply-To: <49779.128.196.218.192.1310663808.squirrel@squirrelmail.math.arizona.edu>
+Date: Sat, 16 Jul 2011 04:23:24 -0400
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <6824C034-1CC2-4BA6-B5EC-2EC86B1CF7D2@cola.iges.org>
+References: <49779.128.196.218.192.1310663808.squirrel@squirrelmail.math.arizona.edu>
+To: tolwinski@math.arizona.edu
+X-Mailer: Apple Mail (2.1084)
+X-Mlf-Version: 7.2.1.2841
+X-Mlf-UniqueId: o201107160208130036199
+X-Incoming-Spam-Score: 0.0 (/)
+
+Dear Ms. Tolwinski-Ward:
+
+In my experience, code error correction in climate models is an expected 
+part of the process and usually handled through updated releases 
+(e.g. version 1.x) by the supporting organization. Similar procedures 
+are followed in supporting data analysis and visualization software (GrADS) 
+and other software products, both freely distributed and commercial.  
+It seems that you have done this already. You point out that the equation 
+with the error is not in the paper and that the changes are minor. 
+You could mention the error in a future publication and provide a link 
+to your evaluation of its effect. Therefore, I would think that 
+an erratum is not necessary. 
+
+However, if you feel that it is important to publish an erratum, 
+I would have no objection.
+
+Kind regards,
+Edwin Schneider
+
+Edwin K. Schneider
+Executive Editor, Climate Dynamics
+Professor of Climate Dynamics, George Mason University
+Senior Research Scientist, COLA
+4041 Powder Mill Rd., Suite 302
+Calverton, MD 20705-3106
+phone: 	(301)902-1250
+fax: 		(301)595-9793
+www:	http://climate.gmu.edu/people/faculty/index.php
+		http://www.iges.org/people/schneider.html
+
+On Jul 14, 2011, at 1:16 PM, tolwinski@math.arizona.edu wrote:
+
+> Dear Dr. Schneider,
+> 
+> I'm writing to seek your guidance about our paper, "An efficient forward
+> model of the climatic controls on interannual tree ring-width
+> variability," published in Climate Dynamics volume 36: 11-12 (doi:
+> 10.1007/s00382-010-0945-5).  As you will recall, we have already published
+> an erratum to the paper (doi: 10.1007/s00382-011-1062-9). Unfortunately,
+> about a month ago a user of the model found a second error, this time in
+> the model code. My coauthors and I are wondering whether it is appropriate
+> to submit another erratum.
+> 
+> The equation containing the typographical error in the code never appeared
+> in the original paper.  Furthermore, we have performed all the analysis in
+> the original paper with corrected code, and found the changes in results
+> to be quite minor.  None of the original statements in the paper have
+> changed.  However, we feel that it would be preferable to have a published
+> statement of the error come from us as authors of the paper, rather than
+> have someone else submit a comment on the paper about it.
+> 
+> We have already notified colleagues and published corrected code as well
+> as thorough documentation of the error on NOAA's Paleoclimatology World
+> Data Center Software Library (http://www.ncdc.noaa.gov/paleo/softlib/). 
+> The
+> documentation is attached to this email so you may get a better sense of
+> the error and its impacts on the work. If we decide to publish another
+> erratum, we would likely submit a version of this document with minor
+> changes. Please let us know what you recommend.
+> 
+> 
+> Sincerely,
+> Suz Tolwinski-Ward
+> Michael Evans, Malcolm Hughes, and Kevin Anchukaitis
+> 
+> 
+> 
+> 
+> 
+> -- 
+> Suz Tolwinski-Ward
+> PhD. Candidate
+> Program in Applied Mathematics
+> University of Arizona
+> http://math.arizona.edu/~tolwinski
+> 
+> 
+> 
+> 
+> 
+> <VSLite_correction_7_2011.pdf>
+
